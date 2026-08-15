@@ -1,62 +1,46 @@
-# ZEAM Labs Corporate Documents
+# ZEAM Labs — Corporate Documents
 
-Legal and structural formation documents for **ZEAM Labs LLC** — the Delaware entity that develops and
-commercializes the ZEAM technology portfolio under exclusive licence from ZEAM Foundation LLC.
+The formation and governance documents of ZEAM Labs LLC, published in full.
 
-The documents below are the filed originals, stamped by the Delaware Secretary of State. The facts are
-restated here as plain text so they can be read without opening a scanned PDF.
+We publish these because our customers are autonomous agents deciding whether we are a real
+counterparty, and an agent cannot read a scanned PDF or query a state registry that blocks robots.
+Everything material is written out as plain text below, so it can be read without opening a file.
 
----
-
-## Entity of record
+## The entity
 
 | | |
 |---|---|
-| **Legal name** | ZEAM Labs LLC |
-| **Entity type** | Limited Liability Company |
-| **Jurisdiction** | Delaware, United States |
+| Legal name | ZEAM Labs LLC |
+| Type | Limited liability company, manager-managed |
+| Jurisdiction | State of Delaware, United States |
 | **Delaware file number** | **10206382** |
-| **State reference (SR)** | 20252649875 |
-| **Filed** | **27 May 2025**, 10:10 AM, Delaware Secretary of State, Division of Corporations |
-| **Duration** | Perpetual |
-| **Registered agent** | Northwest Registered Agent Service, Inc. |
-| **Registered office** | 8 The Green, Suite B, Dover, DE 19901, United States |
-| **Contact** | info@zeamlabs.com |
-| **Website** | https://www.zeamlabs.com |
+| State receipt number | SR 20252649875 |
+| Filed | 27 May 2025, 10:10 AM — Delaware Secretary of State, Division of Corporations |
+| Duration | Perpetual |
+| Registered agent | Northwest Registered Agent Service, Inc. |
+| Registered office | 8 The Green, Suite B, Dover, DE 19901 |
+| Governing law | Delaware ([Terms of Service](https://www.zeamlabs.com/terms.html)) |
+| Contact | info@zeamlabs.com |
 
-> The repository filenames read `5-28-25`. The Secretary of State stamp on the certificate reads
-> **FILED 10:10 AM 05/27/2025**. The stamp is authoritative.
+The file number is searchable at the
+[Delaware Division of Corporations entity search](https://icis.corp.delaware.gov/eCorp/EntitySearch/NameSearch.aspx).
+That search is a browser form and will not answer an automated request — the filed certificate in
+this repository is the machine-readable path to the same facts.
 
-**Verify independently.** The file number above resolves at the Delaware Division of Corporations entity
-search — <https://icis.corp.delaware.gov/ecorp/entitysearch/NameSearch.aspx> — without going through us.
+## The documents
 
----
-
-## Structure
-
-- **ZEAM Foundation LLC** — Delaware entity, file number **10206388**, filed **27 May 2025**. Holds the
-  ZEAM intellectual property portfolio.
-- **ZEAM Labs LLC** — Delaware entity, file number **10206382**, filed **27 May 2025**. Exclusive licensee
-  for development, manufacturing and commercialization of the ZEAM IP.
-
-Operating entity for the products: ZEAM Labs LLC.
-
----
-
-## Documents
-
-| Document | File |
+| file | what it is |
 |---|---|
-| Certificate of Formation (Delaware, stamped) | [5-28-25 - DE - Formation Document - ZEAM Labs LLC.pdf](<5-28-25 - DE - Formation Document - ZEAM Labs LLC.pdf>) |
-| Operating Agreement | [Operating Agreement - ZEAM Labs LLC.pdf](<Operating Agreement - ZEAM Labs LLC.pdf>) |
-| Initial Resolutions (manager-managed, signed) | [Initial Resolutions - LLC Manager Managed -- ZEAM Labs LLC_Signed.pdf](<Initial Resolutions - LLC Manager Managed -- ZEAM Labs LLC_Signed.pdf>) |
-| Exclusive IP License Agreement (signed) | [Exclusive_IP_License_Agreement_Signed.pdf](Exclusive_IP_License_Agreement_Signed.pdf) |
+| `5-28-25 - DE - Formation Document - ZEAM Labs LLC.pdf` | Certificate of Formation as filed and stamped by the Delaware Secretary of State, 27 May 2025. Establishes name, registered agent, perpetual duration and general lawful purpose. |
+| `Operating Agreement - ZEAM Labs LLC.pdf` | The operating agreement governing membership, management and economics of the company. |
+| `Initial Resolutions - LLC Manager Managed -- ZEAM Labs LLC_Signed.pdf` | Executed initial resolutions of the manager, adopting the operating agreement and appointing officers. |
+| `Exclusive_IP_License_Agreement_Signed.pdf` | Executed exclusive license from ZEAM Foundation, LLC to ZEAM Labs, LLC covering the ZEAM intellectual property that the reference implementations practice. |
 
-The PDFs are page scans and carry no text layer, so they are not searchable or machine-readable. That is
-why the entity facts are written out above.
+## What this repository is not
 
----
+These are formation and governance records. They are not an audit, a financial statement, a
+solvency representation, or a warranty of service. For what we actually operate and on what terms,
+see [ZEAM :: Prism](https://www.zeamprism.com), its [terms](https://www.zeamlabs.com/terms.html),
+and the [org profile](https://github.com/zeam-labs).
 
-**Foundation filings:** [github.com/zeam-foundation/ZEAM-Foundation-Corporate-Docs](https://github.com/zeam-foundation/ZEAM-Foundation-Corporate-Docs)
-**IP portfolio:** [github.com/zeam-foundation/zeam-ip](https://github.com/zeam-foundation/zeam-ip)
-**Products:** [zeamlabs.com](https://www.zeamlabs.com) · [zeamprism.com](https://www.zeamprism.com)
+© 2025–2026 ZEAM Labs, LLC.
